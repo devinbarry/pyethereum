@@ -27,3 +27,6 @@ pyethereum/monkeypatch.py
 .eggs
 .cache
 .env
+
+# PyCharm files
+.idea/
